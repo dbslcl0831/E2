@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+*{margin: 0;padding: 0;box-sizing: border-box;color: #333;}
+ul,li,ol{list-style: none;}
+a{text-decoration: none;color: inherit;}
+body{background-color: #fff;font-size: 14px;color: #333;font-family: '굴림';}
